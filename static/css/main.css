@@ -1,0 +1,25 @@
+
+#main{
+  font-family: 'Nanum Barun Gothic';
+}
+
+#header_logo{
+
+  width: 150px;
+  height: 167px;
+
+}
+
+header{
+	width: 100%;
+	height: 285px;
+	background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), linear-gradient(to right, #ffff4f, #c8ff6b 51%, #56ed59);
+}
+nav a{
+  display: inline-block;
+  float: left;
+}
+
+.item_icon{
+  width: 280px;
+}
